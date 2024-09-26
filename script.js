@@ -27,15 +27,15 @@ document.addEventListener("DOMContentLoaded", () => {
         card.innerHTML = `
             <h2>Cartela ${++cardId}</h2>
             <div class="numbers">
-                <input type="button" class="btn-number" id="n1" value="1">
-                <input type="button" class="btn-number" id="n2" value="2">
-                <input type="button" class="btn-number" id="n3" value="3">
-                <input type="button" class="btn-number" id="n4" value="4">
-                <input type="button" class="btn-number" id="n5" value="5">
-                <input type="button" class="btn-number" id="n6" value="6">
-                <input type="button" class="btn-number" id="n7" value="7">
-                <input type="button" class="btn-number" id="n8" value="8">
-                <input type="button" class="btn-number" id="n9" value="9">
+                <input type="button" class="btn-number" id="n1" value="01">
+                <input type="button" class="btn-number" id="n2" value="02">
+                <input type="button" class="btn-number" id="n3" value="03">
+                <input type="button" class="btn-number" id="n4" value="04">
+                <input type="button" class="btn-number" id="n5" value="05">
+                <input type="button" class="btn-number" id="n6" value="06">
+                <input type="button" class="btn-number" id="n7" value="07">
+                <input type="button" class="btn-number" id="n8" value="08">
+                <input type="button" class="btn-number" id="n9" value="09">
                 <input type="button" class="btn-number" id="n10" value="10">
                 <input type="button" class="btn-number" id="n11" value="11">
                 <input type="button" class="btn-number" id="n12" value="12">
